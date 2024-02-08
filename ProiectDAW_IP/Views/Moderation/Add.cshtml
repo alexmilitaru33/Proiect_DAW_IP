@@ -1,0 +1,43 @@
+﻿@model User // Replace with your Exercise model
+@{
+    string emailPattern = "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$";
+}
+
+<h1>Add New User</h1>
+
+<form asp-controller="Moderation" asp-action="Add" method="post">
+    <div>
+        <label asp-for="UserName">Username:</label>
+        <input asp-for="UserName" class="form-control" required />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Password">Password:</label>
+        <textarea asp-for="Password" class="form-control" required></textarea>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+
+    <div>
+        <label asp-for="Email">Email:</label>
+        <input asp-for="Email" class="form-control" type="email" required pattern="@emailPattern">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="UserType">Section ID:</label>
+        <select asp-for="@Model.UserType" asp-items="@ViewBag.UserTypes" class="form-control" required></select>
+        <span asp-validation-for="UserType" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Score">Score:</label>
+        <input asp-for="Score" class="form-control" required />
+        <span asp-validation-for="Score" class="text-danger"></span>
+    </div>
+
+    <div>
+        <button style="margin-top:20px" type="submit" asp-controller="Moderation" asp-action="AddUser" class="btn btn-primary">Add User</button>
+        <a style="margin-top:20px" asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</form>
+

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to our platform</title>
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="login-page">
+        <div class="form">
+            <form asp-controller="User" asp-action="Login" method="post">
+                <div>
+                    <label for="UserName">Username:</label>
+                    <input type="text" id="username" name="UserName" required />
+                </div>
+                <div>
+                    <label for="Password">Password:</label>
+                    <input type="password" id="password" name="Password" required />
+                </div>
+                <button type="submit">Login</button>
+                <p style="font-size:14px; padding-top:6px; margin-bottom:4px" class="message">Nu esti inregistrat? <a href="/User/Register">Creeaza-ti acum un cont!</a></p>
+
+                @if (ViewData.ModelState.Any())
+                {
+                    <div class="validation-summary-errors">
+                        <span>EROARE!</span>
+                        <ul>
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <li>@error.ErrorMessage</li>
+                            }
+                        </ul>
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+</body>
+</html>

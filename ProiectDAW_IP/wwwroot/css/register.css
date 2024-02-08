@@ -1,0 +1,136 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+body {
+    background: #f0eee9;
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+}
+
+.login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.form {
+    background: #FFFFFF;
+    max-width: 350px;
+    width: 100%;
+    padding: 45px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-top: -120px; /* Adjust the margin-top as needed */
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+    .form label {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .form input {
+        outline: 0;
+        background: #f2f2f2;
+        width: 100%;
+        border: 0;
+        margin: 0 0 15px;
+        padding: 15px;
+        box-sizing: border-box;
+        font-size: 14px;
+        border-radius: 4px;
+    }
+
+    .form button {
+        text-transform: uppercase;
+        outline: 0;
+        background: #4CAF50;
+        width: 100%;
+        border: 0;
+        padding: 15px;
+        color: #FFFFFF;
+        font-size: 14px;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+    }
+
+        .form button:hover, .form button:active, .form button:focus {
+            background: #43A047;
+        }
+
+    .form .message {
+        margin: 15px 0 0;
+        color: #b3b3b3;
+        font-size: 12px;
+    }
+
+        .form .message a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+.container .info {
+    text-align: center;
+}
+
+    .container .info h1 {
+        margin: 0 0 15px;
+        padding: 0;
+        font-size: 36px;
+        font-weight: 300;
+        color: #1a1a1a;
+    }
+
+    .container .info span {
+        color: #4d4d4d;
+        font-size: 12px;
+    }
+
+        .container .info span a {
+            color: #000000;
+            text-decoration: none;
+        }
+
+        .container .info span .fa {
+            color: #EF3B3A;
+        }
+
+
+
+.container-fluid {
+    width: 500px; /* Adjust the width as needed */
+}
+
+.navbar {
+    padding-top: 10px; /*Adjust the top padding as needed */
+    padding-bottom: 10px; /* Adjust the bottom padding as needed */
+    height: 60px; /* Adjust the overall height as needed */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+
+.custom-margin {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.containerFooter {
+    max-width: 600px;
+    position: relative;
+    left: 40%;
+}

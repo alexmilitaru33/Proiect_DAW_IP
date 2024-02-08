@@ -1,0 +1,95 @@
+﻿/* Adaugă aceste stiluri la sfârșitul fișierului CSS */
+
+/* Stiluri pentru wrapper */
+.wrapper {
+    width: 100%;
+}
+
+#sidenav {
+    display: block; /* sau orice altă valoare dorită pentru afișare inițială */
+}
+/* Ajustează stilurile pentru sidebar */
+.sidebar {
+    width: 120px;
+    background: #252525;
+    padding: 20px;
+    color: #808080;
+    position: fixed; /* Modificare aici */
+    height: 50%; /* Modificare aici */
+    left: 0; /* Modificare aici */
+    top: 20px; /* Modificare aici */
+    margin-top:80px;
+}
+.sidenav {
+    display: flex;
+    flex-direction: column;
+}
+
+    .sidenav a {
+        color: #ffffff !important;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 1.2rem;
+        font-weight: 600; /* Ajustează greutatea fontului */
+        margin-bottom: 10px; /* Adaugă spațiu între link-uri */
+    }
+
+    .sidenav .side-link div {
+        width: 100%; /* Ajustează lungimea indicatorului */
+        height: 4px;
+        margin-top: 50px;
+        background: red;
+        opacity: 0;
+        transition: 0.25s ease-in-out;
+    }
+
+    .sidenav .side-link:hover div {
+        transform: scaleX(1); /* Modifică pentru a face o scalare pe axa X */
+        opacity: 1;
+    }
+
+/* Ajustează stilurile pentru body-container */
+.body-container {
+    flex: 1; /* Ocupă spațiul rămas în wrapper */
+    padding: 50px;
+}
+
+/* Stiluri pentru conținutul principal */
+.main-heading {
+    text-align: center; /* Ajustează alinierea textului */
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+/* Ajustează stilurile pentru formularul de login */
+form {
+    max-width: 100%; /* Ajustează lățimea formularului la 100% */
+}
+
+/* Stiluri pentru butoane */
+.intro {
+    display: block; /* Modifică pentru a face butonul un bloc */
+    width: 100%; /* Ajustează lățimea butonului la 100% */
+    padding: 10px;
+    text-align: center; /* Ajustează alinierea textului butonului */
+}
+
+    .intro:hover {
+        background-color: #0056b3;
+    }
+
+/* Alte ajustări pot fi necesare în funcție de designul specific */
+
+
+.containerFooter {
+    max-width: 600px;
+    position: relative;
+    left: 40%;
+}
+
+/* Am adaugat acest cod pentru imaginea din index*/
+
+.music-image {
+    width: 1300px;
+    height: auto;
+}

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bine ati venit pe PlayWithMe</title>
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+   
+</head>
+<body>
+
+    <div class="wrapper">
+        <!--SideBar-->
+        <div class="sidebar" id="sidenav">
+            <div class="sidenav-container">
+                <div class="sidenav">
+                    <div class="side-link">
+                        <a href="/User/Login">Login</a>
+                        <div></div>
+                    </div>
+                    <div class="side-link">
+                        <a href="/User/Register">Register</a>
+                        <div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--SideBar End-->
+        <!--Body Start-->
+        <div class="body-container">
+            <div class="main-heading text-center">
+                <h1>Bine ati venit pe PlayWithMe</h1>
+            </div>
+            <h1>Pasiunea pentru Muzică în Cuvinte</h1>
+            <p>Dacă sunteți un iubitor al muzicii și doriți să explorați lumea fascinantă a sunetelor, versurilor și artistilor, atunci ați ajuns la locul potrivit. PlayWithMe este o destinație online dedicată pasionaților de muzică, unde vă așteaptă o colecție variată de articole muzicale ce acoperă totul, de la cele mai noi hit-uri până la poveștile din spatele pieselor clasice.</p>
+            
+            <!-- Adăugare imagine -->
+            <img src="~/imagine.png" alt="Imagine Muzica" class="music-image">
+
+        </div>
+        <!---Body End--->
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var isUserLoggedIn = @((ViewBag.IsUserLoggedIn ? "true" : "false").ToLower());
+            console.log("Is user logged in: " + isUserLoggedIn);
+
+            if (isUserLoggedIn) {
+                document.querySelector(".sidebar").style.display = "none";
+            }
+        });
+    </script>
+
+
+</body>
+</html>

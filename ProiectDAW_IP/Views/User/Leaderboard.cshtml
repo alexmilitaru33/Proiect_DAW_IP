@@ -1,0 +1,56 @@
+﻿@model List<User>
+@{
+    <div style="padding-right: 400px; margin-left: -400px;">
+        <a style="margin-top: 30px; width: 200px; height: 50px; font-size: 18px; line-height: 30px; text-align: center;" asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+
+
+
+
+    <h1 style="margin-top: 20px;">Leaderboard</h1>
+
+    <div style="display: flex;">
+
+        <div style="flex: 1; padding-right: 20px;">
+            <h2>Rankings</h2>
+            <ol>
+                @for (var i = 0; i < Model.Count; i++)
+                {
+                    <li>@Model[i].UserName - @Model[i].Score</li>
+                }
+            </ol>
+        </div>
+
+        <div style="flex: 2;">
+            <h2>Search by Username</h2>
+            <form method="get" asp-action="Leaderboard">
+                <input type="text" name="searchUserName" placeholder="Enter username">
+                <button type="submit">Search</button>
+            </form>
+
+            <h2>Sort by</h2>
+            <a asp-action="Leaderboard" asp-route-sortOrder="Score" style="margin-right: 10px;">Sort by Score</a> |
+            <a asp-action="Leaderboard" asp-route-sortOrder="UserName">Sort by UserName</a>
+
+            <table style="margin-top: 20px; width: 100%; border-collapse: collapse;">
+                <thead>
+                    <tr>
+                        <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">User Name</th>
+                        <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model)
+                    {
+                        <tr>
+                            <td style="border: 1px solid #ddd; padding: 8px;">@user.UserName</td>
+                            <td style="border: 1px solid #ddd; padding: 8px;">@user.Score</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+
+

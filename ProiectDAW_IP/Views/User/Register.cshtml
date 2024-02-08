@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to our platform</title>
+    <link rel="stylesheet" href="~/css/register.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="login-page">
+        <div class="form">
+            <form asp-controller="User" asp-action="Register" method="post">
+                <div>
+                    <label for="UserName">Username:</label>
+                    <input type="text" id="username" name="UserName" required />
+                </div>
+                <div>
+                    <label for="Password">Password:</label>
+                    <input type="password" id="password" name="Password" required />
+                </div>
+                <div>
+                    <label for="Email">Email:</label>
+                    <input type="email" id="email" name="Email" required />
+                </div>
+                <button type="submit">Register</button>
+                <p style="font-size:14px; padding-top:6px; margin-bottom:4px" class="message">Already registered? <a href="/User/Login">Log in now</a></p>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

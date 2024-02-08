@@ -1,0 +1,92 @@
+﻿@model User // Replace with your User model
+
+<h1>Edit User</h1>
+
+
+<form asp-controller="Moderation" asp-action="Edit" method="post" id="editForm">
+    <div>
+        <input asp-for="@Model.Id" hidden />
+    </div>
+    <div>
+        <label asp-for="UserName">Username:</label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Password">Password:</label>
+        <textarea asp-for="Password" class="form-control"></textarea>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Email">Email:</label>
+        <input asp-for="Email" class="form-control">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="UserType">User Type:</label>
+        <select asp-for="UserType" asp-items="@ViewBag.UserTypes" class="form-control"></select>
+        <span asp-validation-for="UserType" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Score">Score:</label>
+        <input asp-for="Score" class="form-control" />
+        <span asp-validation-for="Score" class="text-danger"></span>
+    </div>
+
+    <div>
+        <button style="margin-top:20px;" type="submit" class="btn btn-primary">Edit User</button>
+        <a style="margin-top:20px;" asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Configure the form validation
+            $("#editForm").validate({
+                rules: {
+                    UserName: {
+                        required: true
+                    },
+                    Password: {
+                        required: true
+                    },
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    UserType: {
+                        required: true
+                    },
+                    Score: {
+                        required: true,
+                        number: true
+                    }
+                },
+                messages: {
+                    UserName: {
+                        required: "Username is required."
+                    },
+                    Password: {
+                        required: "Password is required."
+                    },
+                    Email: {
+                        required: "Email is required.",
+                        email: "Invalid email address."
+                    },
+                    UserType: {
+                        required: "User Type is required."
+                    },
+                    Score: {
+                        required: "Score is required.",
+                        number: "Please enter a valid number for Score."
+                    }
+                }
+            });
+        });
+    </script>
+}

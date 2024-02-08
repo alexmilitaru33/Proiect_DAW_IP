@@ -1,0 +1,36 @@
+﻿@model List<Produs>
+<div class="AllProduse">
+    <h1>Toate produsele</h1>
+
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var produse in Model)
+        {
+            <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+                <h3>@produse.Nume</h3>
+                <p>@produse.Descriere</p>
+                <p>Difficulty: @produse.Pret</p>
+                <p>Section: @produse.CategorieId</p>
+                <div>
+                    <ul>
+                        <li><a asp-action="Edit" asp-controller="Produs" asp-route-id="@produse.Id">Edit</a></li>
+                        <li><a asp-action="Delete" onclick="return confirm('Are you sure do you want to delete this item?')" asp-route-id="@produse.Id">Delete</a></li>
+                    </ul>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>Niciun produs nu a fost gasit.</p>
+    }
+
+    <div>
+        <a style="margin-bottom:20px" asp-controller="Produs" asp-action="Add" class="btn btn-primary">Adauga un produs nou</a>
+    </div>
+
+
+    <div>
+        <a asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</div>

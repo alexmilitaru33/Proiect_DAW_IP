@@ -1,0 +1,82 @@
+﻿@model Produs // Replace with your Exercise model
+
+<h1>Editeaza produsul</h1>
+
+<form asp-controller="Produs" asp-action="Edit" method="post" id="editForm">
+    <div>
+        <input asp-for="@Model.Id" hidden />
+    </div>
+    <div>
+        <label asp-for="Nume">Titlul produsului:</label>
+        <input asp-for="Nume" class="form-control"  />
+        <span asp-validation-for="Nume" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Descriere">Descriere:</label>
+        <textarea asp-for="Descriere" class="form-control" ></textarea>
+        <span asp-validation-for="Descriere" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="CategorieId">Id Categorie:</label>
+        <select asp-for="@Model.CategorieId" asp-items="@ViewBag.categorie" class="form-control" ></select>
+        <span asp-validation-for="CategorieId" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Pret">Pret:</label>
+        <input asp-for="Pret" class="form-control"  />
+        <span asp-validation-for="Pret" class="text-danger"></span>
+    </div>
+
+    <div>
+        <button style="margin-top:30px;" type="submit" class="btn btn-primary">Save Changes</button>
+        <a style="margin-top:30px;" asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Configure the form validation
+            $("#editForm").validate({
+                rules: {
+                    Title: {
+                        required: true
+                    },
+                    Description: {
+                        required: true
+                    },
+                    SectionId: {
+                        required: true
+                    },
+                    DifficultyLevel: {
+                        required: true
+                    },
+                    CorrectAnswer: {
+                        required: true
+                    }
+                },
+                messages: {
+                    Title: {
+                        required: "Exercise Title is required."
+                    },
+                    Description: {
+                        required: "Description is required."
+                    },
+                    SectionId: {
+                        required: "Section ID is required."
+                    },
+                    DifficultyLevel: {
+                        required: "Difficulty Level is required."
+                    },
+                    CorrectAnswer: {
+                        required: "Correct Answer is required."
+                    }
+                }
+            });
+        });
+    </script>
+}

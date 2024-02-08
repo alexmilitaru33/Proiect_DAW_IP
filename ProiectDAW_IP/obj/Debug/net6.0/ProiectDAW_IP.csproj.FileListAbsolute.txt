@@ -1,0 +1,408 @@
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.Development.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.staticwebassets.runtime.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.exe
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.deps.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.runtimeconfig.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.pdb
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfoInputs.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfo.cs
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CoreCompileInputs.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.MvcApplicationPartsAssemblyInfo.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cs
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.build.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.development.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.ProiectDAW_IP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.build.ProiectDAW_IP.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProiectDAW_IP.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProiectDAW_IP.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\bundle\ProiectDAW_IP.styles.css
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\projectbundle\ProiectDAW_IP.bundle.scp.css
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\refint\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Humanizer.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.AssemblyReference.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CopyComplete
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.staticwebassets.runtime.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.exe
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.deps.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.runtimeconfig.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.AssemblyReference.cache
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfoInputs.cache
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfo.cs
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CoreCompileInputs.cache
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cache
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cs
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.ProiectDAW_IP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.build.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\bundle\ProiectDAW_IP.styles.css
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\projectbundle\ProiectDAW_IP.bundle.scp.css
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CopyComplete
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\refint\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
+C:\Users\RazvanFilip\Proiect DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.Development.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.staticwebassets.runtime.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.exe
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.deps.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.runtimeconfig.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.pdb
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Humanizer.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.AssemblyReference.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfoInputs.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfo.cs
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CoreCompileInputs.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.MvcApplicationPartsAssemblyInfo.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cs
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.build.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.development.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.ProiectDAW_IP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.build.ProiectDAW_IP.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProiectDAW_IP.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProiectDAW_IP.props
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\bundle\ProiectDAW_IP.styles.css
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\projectbundle\ProiectDAW_IP.bundle.scp.css
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CopyComplete
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\refint\ProiectDAW_IP.dll
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
+E:\Radu_Nicolae\Facultate\an4\sem1\IP\v3ProiectDAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.staticwebassets.runtime.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.exe
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.deps.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.runtimeconfig.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.AssemblyReference.cache
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfoInputs.cache
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfo.cs
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CoreCompileInputs.cache
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cache
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cs
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.ProiectDAW_IP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.build.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\bundle\ProiectDAW_IP.styles.css
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\projectbundle\ProiectDAW_IP.bundle.scp.css
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CopyComplete
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\refint\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
+C:\Users\RazvanFilip\Proiect DAW\v2Radu\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.staticwebassets.runtime.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.exe
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.deps.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.runtimeconfig.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.AssemblyReference.cache
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfoInputs.cache
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfo.cs
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CoreCompileInputs.cache
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cache
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cs
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.ProiectDAW_IP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.build.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProiectDAW_IP.props
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\bundle\ProiectDAW_IP.styles.css
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\projectbundle\ProiectDAW_IP.bundle.scp.css
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CopyComplete
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\refint\ProiectDAW_IP.dll
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
+C:\Users\RazvanFilip\Proiect DAW\v5Razvan\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\appsettings.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.staticwebassets.runtime.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.exe
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.deps.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.runtimeconfig.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.AssemblyReference.cache
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfoInputs.cache
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.AssemblyInfo.cs
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CoreCompileInputs.cache
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cache
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.RazorAssemblyInfo.cs
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.ProiectDAW_IP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.build.ProiectDAW_IP.props
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProiectDAW_IP.props
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProiectDAW_IP.props
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\bundle\ProiectDAW_IP.styles.css
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\scopedcss\projectbundle\ProiectDAW_IP.bundle.scp.css
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.csproj.CopyComplete
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\refint\ProiectDAW_IP.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll

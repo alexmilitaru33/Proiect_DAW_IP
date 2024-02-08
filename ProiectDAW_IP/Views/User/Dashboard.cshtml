@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+</head>
+<body>
+
+    @model List<Categorie>
+    @{
+        <div class="wrapper">
+            <!--SideBar-->
+            <div class="sidebar" id="sidenav">
+                <div class="sidenav-container">
+                    <div class="sidenav">
+                        <div class="side-link">
+                            <a href="/User/Dashboard">Dashboard</a>
+                        </div>
+                        <div class="side-link">
+                            <a href="/User/Leaderboard">Leaderboard</a>
+                        </div>
+                        <div class="side-link adminAdd">
+                            <a href="/Produs/Add">Adauga un produs nou</a>
+                        </div>
+                        <div class="side-link adminViewAll">
+                            <a href="/Produs/ViewAll">Vezi toate produsele</a>
+                        </div>
+                        <div class="side-link adminViewAllUsers">
+                            <a href="/Moderation/ViewAll">Vezi toti utilizatorii</a>
+                        </div>
+                        <div class="side-link">
+                            <a asp-controller="User" asp-action="Logout">Logout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--SideBar End-->
+            <!--Body Start-->
+            <div class="body-container">
+                <h1>Bine ați venit pe PlayWithMe - Pasiunea pentru Muzică în Cuvinte</h1>
+                <p>Dacă sunteți un iubitor al muzicii și doriți să explorați lumea fascinantă a sunetelor, versurilor și artistilor, atunci ați ajuns la locul potrivit. PlayWithMe este o destinație online dedicată pasionaților de muzică, unde vă așteaptă o colecție variată de articole muzicale ce acoperă totul, de la cele mai noi hit-uri până la poveștile din spatele pieselor clasice.</p>
+
+                <!-- Adăugare imagine -->
+                <img src="~/imagine.png" alt="Imagine Muzica" class="music-image">
+
+                @if (Model.Any())
+                {
+                    <ul class="dashboard-sections-list">
+                        @foreach (var categorie in Model)
+                        {
+                            <li>
+                                <!-- Generate a link for each section -->
+                                <a href="@Url.Action("SectionAction", "Categorie", new { sectionId = categorie.Id })">@(categorie.Title)</a>
+                            </li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <p class="dashboard-no-sections">Nu ai momentan niciun voucher</p>
+                }
+            </div>
+        </div>
+
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var responseUserType = @((ViewBag.responseUserType != null && ViewBag.responseUserType ? "true" : "false").ToLower());
+                var responseUserAdmin = @((ViewBag.responseUserAdmin != null && ViewBag.responseUserAdmin ? "true" : "false").ToLower());
+
+                if (responseUserType) {
+                    document.querySelector(".adminAdd").style.display = "none";
+                }
+                if (responseUserType) {
+                    document.querySelector(".adminViewAll").style.display = "none";
+                }
+                if (responseUserAdmin) {
+                    document.querySelector(".adminViewAllUsers").style.display = "none";
+                }
+
+            });
+        </script>
+
+    }
+</body>
+</html>

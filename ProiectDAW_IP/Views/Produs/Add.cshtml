@@ -1,0 +1,36 @@
+﻿@model Produs // Replace with your Exercise model
+
+<h1>Adauga un produs nou</h1>
+
+<form asp-controller="Produs" asp-action="Add" method="post">
+    <div>
+        <label asp-for="Nume">Titlul produsului:</label>
+        <input asp-for="Nume" class="form-control" required />
+        <span asp-validation-for="Nume" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Descriere">Descriere:</label>
+        <textarea asp-for="Descriere" class="form-control" required></textarea>
+        <span asp-validation-for="Descriere" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="CategorieId">Id Categorie:</label>
+        <select asp-for="@Model.CategorieId" asp-items="@ViewBag.categorie" class="form-control" required></select>
+        <span asp-validation-for="CategorieId" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Pret">Pret:</label>
+        <input asp-for="Pret" class="form-control" required />
+        <span asp-validation-for="Pret" class="text-danger"></span>
+    </div>
+  @*   <div>
+        <label asp-for="CorrectAnswer">Correct Answer:</label>
+        <input asp-for="CorrectAnswer" class="form-control" required />
+        <span asp-validation-for="CorrectAnswer" class="text-danger"></span>
+    </div> *@
+
+    <div>
+        <button style="margin-top:20px" type="submit" class="btn btn-primary">Adauga produs</button>
+        <a style="margin-top:20px" asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+</form>
