@@ -13,10 +13,11 @@
                 <p>Section: @produse.CategorieId</p>
                 <div>
                     <ul>
-                        <li><a asp-action="Edit" asp-controller="Produs" asp-route-id="@produse.Id">Edit</a></li>
-                        <li><a asp-action="Delete" onclick="return confirm('Esti sigur ca vrei sa stergi produsul?')" asp-route-id="@produse.Id">Delete</a></li>
+                       <!-- <li><a asp-action="Edit" asp-controller="Produs" asp-route-id="@produse.Id">Edit</a></li> -->
+                        <li><a asp-action="Delete"  asp-route-id="@produse.Id">Adauga in cos</a></li>
                     </ul>
                 </div>
+               
             </div>
         }
     }

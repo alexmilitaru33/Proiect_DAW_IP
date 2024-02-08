@@ -84,5 +84,13 @@ namespace ProiectDAW_IP.Controllers
             var produse = _context.Produse.Include(s=>s.Categorie).ToList();
             return View(produse);
         }
+
+
+        [HttpGet]
+        public IActionResult ViewAllUsers()
+        {
+            var produse = _context.Produse.Include(s => s.Categorie).ToList();
+            return View(produse);
+        }
     }
 }

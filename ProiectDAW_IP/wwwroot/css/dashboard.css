@@ -6,12 +6,12 @@
 
 /* Ajustează stilurile pentru sidebar */
 .sidebar {
-    width: 250px;
+    width: 300px;
     background: #252525;
-    padding: 10px;
+    /*padding: 10px;*/
     color: #fff;
     position: fixed;
-    height: 80%;
+    height: 95%;
     left: 0;
     top: 15px;
     margin-top: -15px;

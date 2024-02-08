@@ -406,3 +406,4 @@ C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\o
 C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.pdb
 C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.genruntimeconfig.cache
 C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ref\ProiectDAW_IP.dll
+C:\Users\milit\Desktop\FACULTATE UNIBUC\Anul 4\DAW\ProiectDAW_IP\ProiectDAW_IP\obj\Debug\net6.0\ProiectDAW_IP.sourcelink.json

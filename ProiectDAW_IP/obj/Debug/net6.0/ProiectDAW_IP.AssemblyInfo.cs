@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProiectDAW_IP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+993bee15d872188a5fc85c272a59696220ee7d43")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProiectDAW_IP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProiectDAW_IP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
