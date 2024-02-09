@@ -2,6 +2,23 @@
 <div class="AllProduse">
     <h1>Toate produsele</h1>
 
+
+
+    <h2>Sort by</h2>
+
+
+    <a asp-action="ViewAllUsers" asp-route-sortOrder="PretCrescator" style="margin-right: 10px;">Pret Crescator</a>
+    <a asp-action="ViewAllUsers" asp-route-sortOrder="PretDescrescator" style="margin-right: 10px;">Pret Descrescator</a> 
+
+    
+    <a asp-action="ViewAllUsers">Alfabetic A-Z</a>
+    <a asp-action="ViewAllUsers">Alfabetic Z-A</a>
+
+   @*  <a asp-action="Leaderboard" asp-route-sortOrder="Score" style="margin-right: 10px;">Sort by Score</a> |
+    <a asp-action="Leaderboard" asp-route-sortOrder="UserName">Sort by UserName</a> *@
+
+
+
     @if (Model != null && Model.Any())
     {
         @foreach (var produse in Model)
@@ -9,8 +26,8 @@
             <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
                 <h3>@produse.Nume</h3>
                 <p>@produse.Descriere</p>
-                <p>Difficulty: @produse.Pret</p>
-                <p>Section: @produse.CategorieId</p>
+                <p>Pret: @produse.Pret</p>
+                <p>Categorie: @produse.Categorie.Title</p>
                 <div>
                     <ul>
                        <!-- <li><a asp-action="Edit" asp-controller="Produs" asp-route-id="@produse.Id">Edit</a></li> -->
@@ -33,6 +50,6 @@
     -->
 
     <div>
-        <a asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+        <a asp-controller="User" asp-action="Dashboard" class="btn btn-secondary">Inapoi Acasa</a>
     </div>
 </div>

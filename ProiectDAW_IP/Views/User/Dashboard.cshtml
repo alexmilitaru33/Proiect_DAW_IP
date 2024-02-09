@@ -16,11 +16,15 @@
                 <div class="sidenav-container">
                     <div class="sidenav">
                         <div class="side-link">
-                            <a href="/User/Dashboard">Dashboard</a>
+                            <a href="/User/Dashboard">Acasa</a>
                         </div>
-                        <div class="side-link">
+
+
+                        <div class="side-link adminLeaderBoard">
                             <a href="/User/Leaderboard">Leaderboard</a>
                         </div>
+
+
                         <div class="side-link adminAdd">
                             <a href="/Produs/Add">Adauga un produs nou</a>
                         </div>
@@ -90,6 +94,12 @@
                 if (responseUserAdmin) {
                     document.querySelector(".adminViewAllUsers").style.display = "none";
                 }
+
+
+                if (responseUserAdmin) {
+                    document.querySelector(".adminLeaderBoard").style.display = "none";
+                }
+
 
             });
         </script>
